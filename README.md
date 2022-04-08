@@ -1,5 +1,5 @@
 <img src="https://img.shields.io/github/downloads/xnojustice/electron-react-okey-card-app/total" alt="total" />
-<img src="" alt="okey-card" />
+<img src="https://github.com/xNoJustice/electron-react-okey-card-app/blob/1274a00d4483919d86b4fe8e8b7192b7a26806e8/app.gif" alt="okey-card" />
 
 ## Install for develop
 
